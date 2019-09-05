@@ -7,7 +7,7 @@ Configurar requires.php la cadena de conexión a base de datos
             'username' => 'root',
             'password' => '123456',
             'database' => 'prueba'];
- El usuario es admin, el password es admin
+ Para acceder al sitio desde el login, el usuario es admin, el password es admin. 
  
  Al ingresar encontraran en la primera pestaña, todos los elementos que ofrece el json. Aca, podemos selecciona los registro que seran guardados en la tabla empleado. Solo deben hacer click en el registro, se pondra verde y estara listo para ser guardado cunado hagan click en el boton azul Enviar (parte inferior de la pantalla). Tambien se pueden seleccionar todos o desseleccionar.
  
